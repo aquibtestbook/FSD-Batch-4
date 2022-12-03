@@ -1,0 +1,20 @@
+#products {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+div {
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+img {
+    width: 350px;
+}
+
+button {
+    padding: 10px;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
